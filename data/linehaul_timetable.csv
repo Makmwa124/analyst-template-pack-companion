@@ -1,0 +1,5 @@
+route,effective_from,effective_to,departs_adelaide,reason
+"Adelaide to Northern (PAG, PPI, WHY)",2025-01-01,2026-03-01,18:00,
+"Adelaide to Northern (PAG, PPI, WHY)",2026-03-02,,16:30,Contractor changed driver shifts
+Adelaide to Mount Gambier (MTG),2025-01-01,,17:30,
+Adelaide to Murray Bridge (MBR),2025-01-01,,18:30,

@@ -1,0 +1,181 @@
+customer_id,customer_name,segment
+C1000,Gawler Pet Supplies,Trade
+C1001,Mallee Wines,Retail
+C1002,Onkaparinga Wines,Retail
+C1003,Fleurieu Medical,Retail
+C1004,Wakefield Office Supplies,Trade
+C1005,Eyre Electrical,Retail
+C1006,Coorong Produce,Retail
+C1007,Mallee Building Supplies,Agriculture
+C1008,Limestone Electrical,Trade
+C1009,Onkaparinga Farm Supply,Retail
+C1010,Gawler Hardware,Trade
+C1011,Saltbush Electrical,Agriculture
+C1012,Saltbush Pet Supplies,Retail
+C1013,Fleurieu Electrical,Retail
+C1014,Gawler Auto Parts,Retail
+C1015,Flinders Outdoor,Trade
+C1016,Coorong Office Supplies,Retail
+C1017,Limestone Produce,Retail
+C1018,Limestone Office Supplies,Health
+C1019,Clare Pet Supplies,Health
+C1020,Onkaparinga Building Supplies,Retail
+C1021,Yorke Auto Parts,Retail
+C1022,Flinders Pharmacy,Agriculture
+C1023,Gawler Building Supplies,Agriculture
+C1024,Clare Hardware,Retail
+C1025,Barossa Pet Supplies,Trade
+C1026,Riverland Medical,Agriculture
+C1027,Barossa Electrical,Trade
+C1028,Riverland Outdoor,Retail
+C1029,Onkaparinga Outdoor,Agriculture
+C1030,Spencer Medical,Agriculture
+C1031,Spencer Building Supplies,Trade
+C1032,Onkaparinga Electrical,Agriculture
+C1033,Fleurieu Farm Supply,Health
+C1034,Torrens Hardware,Retail
+C1035,Onkaparinga Auto Parts,Retail
+C1036,Spencer Hardware,Trade
+C1037,Flinders Wines,Retail
+C1038,Mallee Pet Supplies,Agriculture
+C1039,Wakefield Pet Supplies,Agriculture
+C1040,Onkaparinga Medical,Trade
+C1041,Yorke Wines,Agriculture
+C1042,Yorke Hardware,Health
+C1043,Coorong Pet Supplies,Agriculture
+C1044,Gawler Produce,Retail
+C1045,Flinders Auto Parts,Trade
+C1046,Yorke Produce,Retail
+C1047,Eyre Auto Parts,Trade
+C1048,Flinders Hardware,Retail
+C1049,Coorong Wines,Retail
+C1050,Saltbush Office Supplies,Retail
+C1051,Yorke Medical,Retail
+C1052,Flinders Farm Supply,Agriculture
+C1053,Fleurieu Produce,Retail
+C1054,Mallee Medical,Retail
+C1055,Saltbush Auto Parts,Retail
+C1056,Eyre Hardware,Agriculture
+C1057,Yorke Farm Supply,Retail
+C1058,Eyre Pet Supplies,Health
+C1059,Barossa Produce,Agriculture
+C1060,Gawler Electrical,Trade
+C1061,Torrens Auto Parts,Trade
+C1062,Torrens Wines,Trade
+C1063,Riverland Pet Supplies,Agriculture
+C1064,Riverland Building Supplies,Retail
+C1065,Saltbush Wines,Agriculture
+C1066,Coorong Medical,Agriculture
+C1067,Spencer Farm Supply,Retail
+C1068,Torrens Pet Supplies,Retail
+C1069,Limestone Building Supplies,Trade
+C1070,Flinders Office Supplies,Agriculture
+C1071,Mallee Electrical,Trade
+C1072,Clare Office Supplies,Agriculture
+C1073,Gawler Medical,Retail
+C1074,Yorke Office Supplies,Health
+C1075,Spencer Outdoor,Retail
+C1076,Saltbush Pharmacy,Trade
+C1077,Fleurieu Wines,Agriculture
+C1078,Eyre Building Supplies,Trade
+C1079,Riverland Electrical,Trade
+C1080,Eyre Wines,Retail
+C1081,Coorong Building Supplies,Health
+C1082,Eyre Pharmacy,Trade
+C1083,Spencer Auto Parts,Retail
+C1084,Limestone Farm Supply,Trade
+C1085,Wakefield Wines,Trade
+C1086,Torrens Outdoor,Trade
+C1087,Limestone Medical,Trade
+C1088,Yorke Building Supplies,Retail
+C1089,Gawler Wines,Health
+C1090,Barossa Office Supplies,Trade
+C1091,Riverland Produce,Retail
+C1092,Coorong Hardware,Retail
+C1093,Gawler Outdoor,Agriculture
+C1094,Barossa Medical,Agriculture
+C1095,Torrens Pharmacy,Trade
+C1096,Flinders Electrical,Retail
+C1097,Onkaparinga Produce,Agriculture
+C1098,Wakefield Building Supplies,Agriculture
+C1099,Eyre Farm Supply,Retail
+C1100,Mallee Outdoor,Retail
+C1101,Eyre Office Supplies,Agriculture
+C1102,Limestone Hardware,Trade
+C1103,Riverland Auto Parts,Agriculture
+C1104,Clare Medical,Retail
+C1105,Torrens Medical,Health
+C1106,Clare Produce,Trade
+C1107,Onkaparinga Pharmacy,Agriculture
+C1108,Wakefield Medical,Retail
+C1109,Riverland Wines,Retail
+C1110,Eyre Medical,Retail
+C1111,Torrens Farm Supply,Trade
+C1112,Barossa Building Supplies,Agriculture
+C1113,Saltbush Produce,Trade
+C1114,Coorong Electrical,Agriculture
+C1115,Torrens Produce,Trade
+C1116,Coorong Pharmacy,Agriculture
+C1117,Mallee Office Supplies,Trade
+C1118,Gawler Farm Supply,Retail
+C1119,Fleurieu Auto Parts,Trade
+C1120,Limestone Auto Parts,Retail
+C1121,Barossa Pharmacy,Retail
+C1122,Flinders Pet Supplies,Agriculture
+C1123,Spencer Office Supplies,Trade
+C1124,Fleurieu Pet Supplies,Trade
+C1125,Mallee Pharmacy,Trade
+C1126,Limestone Wines,Trade
+C1127,Saltbush Outdoor,Retail
+C1128,Saltbush Farm Supply,Trade
+C1129,Barossa Hardware,Trade
+C1130,Spencer Produce,Agriculture
+C1131,Wakefield Pharmacy,Trade
+C1132,Spencer Pet Supplies,Retail
+C1133,Limestone Outdoor,Trade
+C1134,Wakefield Produce,Trade
+C1135,Torrens Building Supplies,Retail
+C1136,Mallee Hardware,Health
+C1137,Riverland Farm Supply,Agriculture
+C1138,Fleurieu Pharmacy,Retail
+C1139,Fleurieu Outdoor,Agriculture
+C1140,Limestone Pet Supplies,Agriculture
+C1141,Saltbush Medical,Retail
+C1142,Clare Auto Parts,Retail
+C1143,Clare Outdoor,Health
+C1144,Limestone Pharmacy,Agriculture
+C1145,Riverland Hardware,Retail
+C1146,Coorong Farm Supply,Retail
+C1147,Mallee Farm Supply,Health
+C1148,Onkaparinga Office Supplies,Trade
+C1149,Eyre Outdoor,Trade
+C1150,Onkaparinga Pet Supplies,Retail
+C1151,Gawler Pharmacy,Agriculture
+C1152,Riverland Pharmacy,Trade
+C1153,Eyre Produce,Trade
+C1154,Barossa Outdoor,Agriculture
+C1155,Saltbush Building Supplies,Trade
+C1156,Barossa Wines,Trade
+C1157,Wakefield Outdoor,Health
+C1158,Wakefield Electrical,Agriculture
+C1159,Yorke Pet Supplies,Trade
+C1160,Gawler Office Supplies,Agriculture
+C1161,Fleurieu Hardware,Agriculture
+C1162,Torrens Electrical,Trade
+C1163,Clare Building Supplies,Retail
+C1164,Saltbush Hardware,Retail
+C1165,Yorke Electrical,Health
+C1166,Wakefield Auto Parts,Trade
+C1167,Fleurieu Office Supplies,Trade
+C1168,Spencer Electrical,Trade
+C1169,Mallee Auto Parts,Agriculture
+C1170,Clare Farm Supply,Health
+C1171,Flinders Produce,Retail
+C1172,Clare Electrical,Trade
+C1173,Wakefield Hardware,Trade
+C1174,Coorong Auto Parts,Retail
+C1175,Spencer Pharmacy,Retail
+C1176,Spencer Wines,Retail
+C1177,Onkaparinga Hardware,Retail
+C1178,Yorke Pharmacy,Trade
+C1179,Riverland Office Supplies,Retail
