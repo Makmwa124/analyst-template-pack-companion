@@ -53,7 +53,8 @@ Scripts that write files save them to an `output` folder. Tested with Python 3.1
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon.
+- **Paperback:** [Amazon.com](https://www.amazon.com/dp/B0HRRLJGVL) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HRRLJGVL)
+- **Kindle:** [Amazon.com](https://www.amazon.com/dp/B0HRR89XCP) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HRR89XCP)
 
 ## About
 
